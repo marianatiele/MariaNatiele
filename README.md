@@ -1,10 +1,10 @@
-## Olá Devs! 
+<h2 align="center"> Bem vindo ao meu perfil </h2>
 
 Estou aprendendo front, sou apaixonada por dados.
 
 
 
-## Tecnologias e Ferramentas:
+### Tecnologias e Ferramentas:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
@@ -21,7 +21,7 @@ Estou aprendendo front, sou apaixonada por dados.
 
 
 
-## Contato:
+### Contato:
 
 <div>
  <a href="https://www.linkedin.com/in/maria-natiele/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -31,7 +31,7 @@ Estou aprendendo front, sou apaixonada por dados.
   
 
   
-## Estatística:
+### Estatística:
 
 <div>
 <a href="https://github.com/MariaNatiele">

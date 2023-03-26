@@ -1,4 +1,4 @@
-### Olá Devs, me chamo Maria. 
+# Olá Devs, me chamo Maria. 
 Sou uma dev em construção, estou aprendendo:
 
 
@@ -7,10 +7,9 @@ Sou uma dev em construção, estou aprendendo:
 
 ## Tecnologias e Ferramentas 
 <div>
-<i class="devicon-css3-plain-wordmark"></i>
-<i class="devicon-html5-plain-wordmark"></i>
-<i class="devicon-mysql-plain-wordmark"></i>
-<i class="devicon-javascript-plain"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
 </div>          
  
  <br>
@@ -20,9 +19,10 @@ Sou uma dev em construção, estou aprendendo:
 <div>
 <a href = "mailto:marianatiele20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<i class="devicon-linkedin-plain-wordmark"></i>
+
           
- <a href="https://www.linkedin.com/in/maria-natiele/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+          
+ <a href="https://www.linkedin.com/in/maria-natiele/" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg")style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
   

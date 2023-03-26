@@ -3,14 +3,17 @@ Bem vindo ao meu perfil.
 
 Sou uma dev em construção, estou aprendendo:
 
-
+<div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+</div>          
  
+ 
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaNatiele)](https://github.com/MariaNatiele/github-readme-stats)
 Contatos:
 
 <div>
@@ -28,6 +31,7 @@ Estatística:
 <img height="180em" src="https://github-readme-stats.vercel.app/apiMariaNatiele-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>         
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 

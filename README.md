@@ -1,20 +1,21 @@
 ### Olá Devs, me chamo Maria. 
-Bem vindo ao meu perfil. 
-
 Sou uma dev em construção, estou aprendendo:
 
-<div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
+
+# Tecnologias e Ferramentas 
+<div>
+<i class="devicon-css3-plain-wordmark"></i>
+<i class="devicon-html5-plain-wordmark"></i>
+<i class="devicon-mysql-plain-wordmark"></i>
+<i class="devicon-javascript-plain"></i>
 </div>          
  
  
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaNatiele)](https://github.com/MariaNatiele/github-readme-stats)
-Contatos:
+
+# Contatos:
 
 <div>
 <a href = "mailto:marianatiele20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,7 +23,7 @@ Contatos:
 </div>
   
   
-  
+
   
 Estatística:
  <div>

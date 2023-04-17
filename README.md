@@ -1,6 +1,6 @@
 <h2 align="center"> Bem vindo ao meu perfil </h2>
 
-Estou aprendendo front, sou apaixonada por dados.
+
 
 
 

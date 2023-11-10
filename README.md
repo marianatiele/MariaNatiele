@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Python, SQL e Power BI.**
 
-<!-- 📫 Você me acha através do e-mail **marianatiele20@gmail.com**-->
+<!-- 📫 Você me acha através do e-mail ***-->
 
 
 

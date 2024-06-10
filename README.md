@@ -3,11 +3,9 @@
 
 - 🔭 Atualmente estou graduando em **Sistemas de Informação**
 
-- 🌱 Estou aprendendo **Python, Machine learning e Redes neurais**
+- 🌱 Estou aprendendo **Python, Assistente Virtual, Machine learning e Redes neurais**
 
-- 👯 Faço parte do projeto de extensão **Sistemas Embarcados**
-
-- 💬 Me pergunte sobre **Python, SQL e Power BI.**
+- 💬 Me pergunte sobre **Python, SQL e Análise de Dados.**
 
 <!-- 📫 Você me acha através do e-mail ***-->
 

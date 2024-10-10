@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, sou Maria Natiele</h1>
 <h3 align="center">Sou apaixonada por tecnologia.</h3>
 
-- 🔭 Atualmente estou graduando em **Sistemas da Informação**
+- 🔭 Graduada em **Sistemas da Informação**
 
-- 🌱 Estou aprendendo **Full-stack, Assistente Virtual, Machine learning e Redes neurais**
+- 🌱 Estou aprendendo **Assistente Virtual, Machine learning e Redes neurais**
 
 - 💬 Me pergunte sobre **Python e SQL.**
 

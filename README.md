@@ -44,11 +44,6 @@
   </a>
 </div>
 
----
-
-### 🌎 Conecte-se comigo  
-📧 **E-mail:**[Enviar um e-mail](damascenonathy@gmail.com)
-
 
 ---
 

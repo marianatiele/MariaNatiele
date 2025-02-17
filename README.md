@@ -1,23 +1,55 @@
-<h1 align="center">Oi 👋, sou Maria Natiele</h1>
-<h3 align="center">Sou apaixonada por tecnologia.</h3>
+<h1 align="center">Oi 👋, sou a Nathy</h1>
+<h3 align="center">Apaixonada por dados e inovação! 🚀</h3>
 
-- 🔭 Graduada em **Sistemas da Informação**
+🌟 **Sobre mim:**  
+🔹 Graduada em **Sistemas de Informação**  
+🔹 Explorando **Big Data, Engenharia de Dados e IA**  
+🔹 Aprendendo **Databricks, Apache Spark e Scala**  
+🔹 💬 Me pergunte sobre **Python, SQL e Machine Learning**  
 
-- 🌱 Estou aprendendo **Assistente Virtual, Machine learning e Redes neurais**
+---
 
-- 💬 Me pergunte sobre **Python e SQL.**
+### 🛠️ Tecnologias e Ferramentas  
+<p align="left"> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50" height="50"/> 
+  </a> 
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Databricks_Logo.png" alt="Databricks" width="50" height="50"/> 
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" height="50"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/> 
+  </a> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> 
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Estatística:</h3>
-<div>
-<a href="https://github.com/MariaNatiele">
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaNatiele&layout=compact&langs_count=7&theme=dark"/>
+### 📊 Estatísticas do GitHub  
+<div align="center">
+  <a href="https://github.com/MariaNatiele">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaNatiele&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaNatiele&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
-       
+
+---
+
+### 🌎 Conecte-se comigo  
+📧 **E-mail:**[Enviar um e-mail](damascenonathy@gmail.com)
 
 
-       
+---
 
+💡 *Sempre explorando novos desafios!* ✨

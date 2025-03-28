@@ -1,8 +1,7 @@
-🌟 **Sobre mim:**  
-🔹 Graduada em **Sistemas de Informação**  
+🌟 **Sobre mim:**   
 🔹 Explorando **Big Data, Engenharia de Dados e IA**  
-🔹 Aprendendo **Databricks, Apache Spark e Scala**  
-🔹 💬 Me pergunte sobre **Python, SQL e Machine Learning**  
+🔹 Aprendendo **Databricks, Apache Spark e Azure**  
+🔹 💬 Me pergunte sobre **Python, SQL e Databricks**  
 
 ---
 

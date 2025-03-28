@@ -1,6 +1,3 @@
-<h1 align="center">Oi 👋, sou a Nathy</h1>
-<h3 align="center">Apaixonada por dados e inovação! 🚀</h3>
-
 🌟 **Sobre mim:**  
 🔹 Graduada em **Sistemas de Informação**  
 🔹 Explorando **Big Data, Engenharia de Dados e IA**  
@@ -15,7 +12,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50" height="50"/> 
   </a> 
   <a href="https://databricks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Databricks_Logo.png" alt="Databricks" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" alt="Databricks" width="50" height="50"/> 
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" height="50"/> 
@@ -44,7 +41,3 @@
   </a>
 </div>
 
-
----
-
-💡 *Sempre explorando novos desafios!* ✨

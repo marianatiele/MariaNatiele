@@ -12,7 +12,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="50" height="50"/> 
   </a> 
   <a href="https://databricks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" alt="Databricks" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/63/20230109143553%21Databricks_Logo.png" alt="Databricks" width="100" height="75"/> 
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" height="50"/> 

@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Natiele
+# Olá! 👋 
 
 Sou apaixonado(a) por dados.
 
